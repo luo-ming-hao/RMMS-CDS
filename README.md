@@ -112,7 +112,6 @@ The main components include:
 - Clinical endpoint evaluation utilities
 - Experimental configuration files
 
-**Repository status:** Implementation files and reproducibility instructions should be added as they become available. The presence of this README does not indicate that the complete source code has already been released.
 
 ## Dataset Availability
 
